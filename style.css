@@ -1,0 +1,30 @@
+#header{
+  heigth: 70px;
+  width: 200px;
+  bacground-color: #FF0000;
+#nav {
+  heigth: 60px;
+  width: 180px;
+  bacground-color: #9400D3;
+}
+  #main {
+    height: 800px;
+    width: 600px;
+    bacground-color: #0000FF;
+  }
+  #section {
+    heigth: 700px;
+    width: 200px;
+    bacgorund-color: #FF1493;
+  }
+  #article1 {
+    heigth: 200px;
+    width: 150px;
+    bacground-color: #EE7621;
+  }
+  #article2 {
+    heigth: 200px;
+    width: 150px;
+    background-color: #EE7621;
+  }
+  
